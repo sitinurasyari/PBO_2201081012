@@ -6,7 +6,7 @@ package pbo_tk1b_2201081012;
 
 /**
  *
- * @author ASUS
+ * @author Windows
  */
 public class PBO_TK1B_2201081012 {
 
